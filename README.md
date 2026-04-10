@@ -28,7 +28,8 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 | Species | Added | Notes |
 |---------|-------|-------|
 | Blyxa Japonica | Early March | They seem to die rather easily|
-| Anubias | Early march | Variety of subspecies |
+| Anubias | Early March | Variety of subspecies |
+| Java Fern | Early March ||
 
 ## Structure
 
