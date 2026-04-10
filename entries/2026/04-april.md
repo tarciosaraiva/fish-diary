@@ -14,6 +14,8 @@ Tank seems healthy but quite a few red algae hanging on the plants. Fish are mos
 
 N/A
 
-### Notes
+### Photos
+
+![tank](../../photos/20260410.jpg)
 
 ---
