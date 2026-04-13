@@ -20,7 +20,7 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 | Ram Cichlid | Mikrogeophagus ramirezi | Apr 6 2026 | Got 2 |
 | Black Ghostknife | Apteronotus albifrons | Apr 6 2026 | Got 1 |
 | Ghost shrimp | Unknown | Mar 31 2026 | 1+ |
-| Glass catfish | Kryptopterus vitreolus | Mar 31 2026 | 2? |
+| Glass catfish | Kryptopterus vitreolus | Mar 31 2026 | 1 |
 | Bristlenose | Ancistrus cirrhosis | Apr 6 2026 | 2 |
 
 ## Plants
