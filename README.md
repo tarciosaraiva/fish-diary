@@ -19,7 +19,7 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 | Green Neon Tetra | Paracheirodon simulans | Apr 6 2026 | Got 6 |
 | Ram Cichlid | Mikrogeophagus ramirezi | Apr 6 2026 | Got 2 |
 | Black Ghostknife | Apteronotus albifrons | Apr 6 2026 | Got 1 |
-| Ghost shrimp | Unknown | Mar 31 2026 | 1+ |
+| Ghost shrimp | Unknown | Mar 31 2026 | Dead |
 | Glass catfish | Kryptopterus vitreolus | Mar 31 2026 | 1 |
 | Bristlenose | Ancistrus cirrhosis | Apr 6 2026 | 2 |
 
@@ -35,3 +35,11 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 
 - [`parameters.md`](parameters.md) — water parameter log
 - [`entries/`](entries/) — diary entries organised by year and month
+
+## Entries
+
+| Date | Link |
+|------|------|
+| 2026-04-15 | [2026-04-15](entries/2026/04-april.md#2026-04-15) |
+| 2026-04-13 | [2026-04-13](entries/2026/04-april.md#2026-04-13) |
+| 2026-04-10 | [2026-04-10](entries/2026/04-april.md#2026-04-10) |
