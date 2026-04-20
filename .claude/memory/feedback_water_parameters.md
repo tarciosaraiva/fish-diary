@@ -8,4 +8,4 @@ When the user wants to add water parameters, ask for each field one at a time ra
 
 **Why:** User explicitly requested this interaction style.
 
-**How to apply:** Each time the user says they want to capture/add/log water parameters, prompt field by field: date, temp, pH, ammonia, nitrite, nitrate, KH, GH, notes.
+**How to apply:** Each time the user says they want to capture/add/log water parameters, prompt field by field: date, temp, pH, ammonia, nitrite, nitrate, KH, GH, notes. Add the new entry at the top of the table.
