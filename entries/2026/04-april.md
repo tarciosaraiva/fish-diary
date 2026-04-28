@@ -1,5 +1,27 @@
 # April 2026
 
+## 2026-04-27
+
+50% water change with a few of other changes:
+
+- Removed the inline CO2 diffuser and replaced it with an in-tank one.
+- Cleaned the canister by removing phosphate pads and replacing the top sponge
+- Added Purigen to clean up the water
+
+Fish seem mostly happy. Unfortunately the Ghost catfish was being bullied and was not very happy so I moved it to the other tank - haven't checked on it yet.
+
+Some algae growth, especially green and red. I have added more plants - including java moss - and am hoping that this will help with the algae growth. I also added a monstera to the back and a healthy stick of brazilian vine that I hope will grow like the other tank. Only time will tell.
+
+Also stopped dosing micro nutrients for the plants for now.
+
+Measuring the water yielded somewhat consistent results, which is good: ammonia decreased and GH is kinda weird again but in general water parameters are good.
+
+Even with the Purigen the water is still not 100% clear. I don't think it is a matter of time but I guess we gotta keep doing those water changes until things clear up.
+
+The [H2O2 treatment from the other day](#2026-04-19) did not really yield positive results. I might try again in the future but for now I will just let it be ... trimming the plants might be more effective than dosing them with chemicals.
+
+On the positive side I am seeing some root growth on the anubias and in general the plants are healthy. Just the bloody algae is annoying.
+
 ## 2026-04-19
 
 Did a 50% water change. Along with that I also treated 2 bunches of anubias to a hydrogen peroxide solution which yilded some small immediate results but looks like the treatment really takes a few days. Got the treatment plan [from this website](https://helpusfish.com/30/black-beard-algae-hydrogen-peroxide.html).
