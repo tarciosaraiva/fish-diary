@@ -20,7 +20,6 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 | Golden Longfin Balloon Ram | Mikrogeophagus ramirezi | Apr 6 2026 | Got 2 |
 | Black Ghostknife | Apteronotus albifrons | Apr 6 2026 | Got 1 |
 | Ghost shrimp | Unknown | Mar 31 2026 | Dead |
-| Glass catfish | Kryptopterus vitreolus | Mar 31 2026 | 1 |
 | Bristlenose | Ancistrus cirrhosis | Apr 6 2026 | 2 |
 | Green Neon Tetra | Paracheirodon simulans | Apr 18 2026 | Got 10 |
 | Black Longfin Balloon Ram | Mikrogeophagus ramirezi | Apr 18 2026 | Got 2 |
@@ -33,6 +32,8 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 | Anubias | Early March | Variety of subspecies |
 | Java Fern | Early March ||
 | Duckweed | Apr 18 2026 | Came with the Rams |
+| Hornwort | Apr 27 2026 ||
+| Java Fern | Apr 27 2026 ||
 
 ## Structure
 

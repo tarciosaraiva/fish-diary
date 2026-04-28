@@ -22,6 +22,10 @@ The [H2O2 treatment from the other day](#2026-04-19) did not really yield positi
 
 On the positive side I am seeing some root growth on the anubias and in general the plants are healthy. Just the bloody algae is annoying.
 
+### Photos
+
+![tank](../../photos/20260428.jpg)
+
 ## 2026-04-19
 
 Did a 50% water change. Along with that I also treated 2 bunches of anubias to a hydrogen peroxide solution which yilded some small immediate results but looks like the treatment really takes a few days. Got the treatment plan [from this website](https://helpusfish.com/30/black-beard-algae-hydrogen-peroxide.html).
