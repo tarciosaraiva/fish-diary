@@ -4,6 +4,7 @@ Test results logged over time. Add a row whenever you test — does not need to 
 
 | Date       | Temp (°C) | pH  | Ammonia (ppm) | Nitrite (ppm) | Nitrate (ppm) | KH (dKH) | GH (dGH) | Phosphate (ppm) | Notes |
 |------------|-----------|-----|---------------|---------------|---------------|----------|----------|-----------------|-------|
+| 2026-05-25 | 24 | 6.4~6.8 | 0.25~0.5 | 0 | 0 | 4 | 8 | 0.5~1.0 | |
 | 2026-05-17 | 24 | 7 | 0~0.25 | N/A | N/A | N/A | N/A | 0.25~0.5 | First water change after a while. |
 | 2026-04-28 | 25 | 6.4~6.6 | 0~0.25 | 0 | 0 | N/A | 7 | 0.5~1 | Measured after a big water change. |
 | 2026-04-22 | 25 | 6.4~6.6 | 0~0.25 | 0 | 0 | N/A | 5 | 0.5~1.0 | Fish look happy. Have been feeding only the gel food and they seem to like it. Some algae on the tank. |
