@@ -2,6 +2,10 @@
 
 A log of observations, maintenance, and water parameters for my freshwater aquarium.
 
+## Current state
+
+![tank](./photos/20260524.jpg)
+
 ## Tank
 
 - **Size:** 900L x 400D x 300H
