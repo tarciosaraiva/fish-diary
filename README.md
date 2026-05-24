@@ -48,5 +48,6 @@ A log of observations, maintenance, and water parameters for my freshwater aquar
 
 | Date | Link |
 |------|------|
+| 2026-05-24 | [2026-05-24](entries/2026/05-may.md#2026-05-24) |
 | 2026-05-19 | [2026-05-19](entries/2026/05-may.md#2026-05-19) |
 | 2026-04 | [April 2026](entries/2026/04-april.md) |
