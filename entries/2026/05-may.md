@@ -1,12 +1,27 @@
 # May 2026
 
+## 2026-05-31
+
+After a water change the day before - ~ 40% - I noticed some of the anubias have their leaves melting. This was noticeable on the ones I sprayed H2O2 on; the ones I did not spray were healthy which clearly indicates the fertlilizer is not having a negative effect on plants.
+
+Some of the plants got uprooted over the weekend, not a biggie, probably just fishes and water change making their mark. I also noticed some black spots growing on the glass which is likely black beard algae but couldn't find my scraper... have to take it out ASAP.
+
+On the fish side of things I noticed the Black Ghostknife has been very active lately, even coming to the front at times. I guess this is a good sign but it might be related to the fact that I have started feeding them frozen bloodworms every week and the little guy just loves it. As a matter of fact all fish go crazy for them as expected but I did not expect a strong reaction from the Black Ghostknife. He's such a cool fish to look at that I'm considering if I should get another one - don't want to crowd the tank though.
+
+The one thing that's still bothering me though is the CO2 indicator: it seems to be always in the optimal range even when the CO2 is turned off. I don't know what it means and it made me take it out in the past so maybe I should do it again but I'm concerned there might be something wrong with the tank as some parameters are not as optimal as I wanted. Still though the fish are alive and happy, swimming around, even the tetras are less shy so not sure, guess I need to keep monitoring the whole thing.
+
+### Photos
+
+![black-ghostknife1](../../photos/black-ghostknife1-1.jpg)
+![black-ghostknife2](../../photos/black-ghostknife1-2.jpg)
+
 ## 2026-05-24
 
 Massive water change yesterday, 50%+. Did so I could dose with the new all-in-one fertiliser I got the other day and looks like it yielded good results as the fish are a bit more active than normal and tannins in water have mostly gone but only time will tell really.
 
 I feel like I found the optimal position for the outlet where water keeps circuling at the top and allow for spread of food where the fish go for it and feel safe to go for it. I will keep monitoring.
 
-I'ts great to see the floating plants growing though: it looks like when they spread well enough there might be enough coverage to reduce the light so I might not need to invest in a new lighting kit but the diffusing might be worthwhile even though I don't want to do it for a while as I want the water lettuce to absorb as much light as and nutrients as possible.
+It's great to see the floating plants growing though: it looks like when they spread well enough there might be enough coverage to reduce the light so I might not need to invest in a new lighting kit but the diffusing might be worthwhile even though I don't want to do it for a while as I want the water lettuce to absorb as much light as and nutrients as possible.
 
 Talking about plants I did do a H2O2 treatment again yesterday:
 
@@ -24,7 +39,7 @@ The fertliliser in question is from [AquaLabs, Lean Grow](https://www.aqualabs.c
 
 Otherwise the tank is doing well and the plants growing outside of the tank are thriving too so I guess I must be doing something right!
 
-## Photos
+### Photos
 
 ![tank 1](../../photos/20260524.jpg)
 ![tank 2](../../photos/20260524_2.jpg)
